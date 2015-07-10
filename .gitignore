@@ -1,0 +1,13 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+*.vmx
+*.prt
+*.tlog
+*.idb
+*.exp
+*.sdf
+*.map
+*.ipch
+*.jbf
